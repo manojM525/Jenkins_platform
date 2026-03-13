@@ -6,3 +6,6 @@ credentials:1337.v60b_d7b_c7b_c9f
 ssh-agent:333.v878b_53c89511
 blueocean:1.27.10
 configuration-as-code:1775.v810dc950b_514
+kubernetes:4392.v19cea_fdb_5913
+amazon-ecr:1.161.v1a_1e8df852d6
+kubernetes-cli:1.12.1
