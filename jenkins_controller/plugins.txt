@@ -1,0 +1,8 @@
+git:5.2.1
+workflow-aggregator:596.v8c21c963d92d
+docker-workflow:563.vd5d2e5c4007f
+github:1.39.0
+credentials:1337.v60b_d7b_c7b_c9f
+ssh-agent:333.v878b_53c89511
+blueocean:1.27.10
+configuration-as-code:1775.v810dc950b_514
